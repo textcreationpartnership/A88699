@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter written to a member sitting at Westminster</title>
+            <author>L. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88699</idno>
+            <idno type="STC">Wing L42</idno>
+            <idno type="STC">ESTC R179223</idno>
+            <idno type="EEBO-CITATION">43078092</idno>
+            <idno type="OCLC">ocm 43078092</idno>
+            <idno type="VID">151590</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88699)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151590)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2266:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter written to a member sitting at Westminster</title>
+                  <author>L. L.</author>
+               </titleStmt>
+               <extent>[2], 3-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: L.L. on p. 8.</note>
+                  <note>Reproduction of original in: Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England. --  Parliament --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151590:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>A LETTER Written to A MEMBER Sitting At WESTMINSTER,</p>
+            <figure>
+               <head>E R</head>
+               <p>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151590:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="3" facs="tcp:151590:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>A LETTER Written to a MEMBER, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>OUt of that great ſervice and high eſteem I have for you, both as a Gentleman and Chriſtian, I pre<g ref="char:EOLhyphen"/>ſume to give you the trouble of this paper, which I beg of you moſt ingenuouſly to peruſe, as a Perſon of Reaſon and Civility, which I hope as yet you have not wholly cancelled: And therefore I take the freedom to preſent you with the Scene of their publick tranſactions, as a Member of the Houſe; deſiring you would be pleaſed to treat your ſelf with the ſerious conſideration of the Ad<g ref="char:EOLhyphen"/>mirable diſpenſations of Divine providence and juſtice, clearly evidenced to a common apprehenſion in that true <hi>Lex Talionis.</hi> The Houſe of Commons at the beginning of their Seſſions, having by their fair pretences gained a good opinion with the Vulgar, did raiſe and foment great Tu<g ref="char:EOLhyphen"/>mults, as a means, when they could not convince by Ar<g ref="char:EOLhyphen"/>guments, to over-awe with power of thoſe, who by their clamorous inſolence, ſo violently, aſſaulted the late Kings
+<pb n="4" facs="tcp:151590:3"/>
+               <!-- PDF PAGE 15 -->ſacred perſon, that they forced him for his own defence to a retirement from <hi>Weſtminſter.</hi> Not many years after thoſe very Contrivers, the greater part of the Houſe, though they highly careſſed <hi>Cromwell</hi> and the Army at <hi>Triploe-Heath</hi> near <hi>Cambridg;</hi> (promiſing them by <hi>Skip<g ref="char:EOLhyphen"/>pon</hi> an Act of Indemnity, and their Arrears) were beaten notwithſtanding with their own weapons, every Regiment crying Juſtice, Juſtice, which was the ſame language, which the Tumults firſt uſed againſt the King by their con<g ref="char:EOLhyphen"/>nivance and inſtigation: and afterwards was ecchoed by the Army againſt themſelves to their ſecluſion, in 1648. When theſe preſent Members, the minor part of the Houſe (deſigning to make themſelves abſolute, and to di<g ref="char:EOLhyphen"/>vide the large Revenues of the Church and Crown among themſelves and their Adherents, as a poor petty reward for their greater ſervice to the Kingdom) did fear the greater and honeſter part of the Houſe would ſpoile their game, in voting the conceſſions of the late King at the <hi>Iſle of Wight</hi> to be a ground of a firm peace, and being out numbred could not carry on their deſign by a Vote, courted the Ar<g ref="char:EOLhyphen"/>my into a compliance with their unhandſome ſence, which was to keep out the greater part of the Houſe by force, becauſe they would not ſubmit to their Judgments, to their too too partial Intereſt. I wiſh I could not call theſe pro<g ref="char:EOLhyphen"/>ceedings Arbitrary, which have no other Baſis, but the dictates of their own Will, which would have been happi<g ref="char:EOLhyphen"/>ly buried in their firſt conception without any farther pro<g ref="char:EOLhyphen"/>duct, had they not received birth and ſuſtenance from a military power, good Phyſick in time of great diſtempers, but an ill conſtant nouriſhment. It had been better their Reſolves had merited their value from a due number of Votes, then from the unequal balance of an unjuſt weight of Arms; But may be they will reply the leaſt part of the Houſe was the beſt, the greater as they pretend was acted in principles deſtructive to the Kingdom. This is the one ſenſe, if they may decide the diſpute; But they are not compe<g ref="char:EOLhyphen"/>tent Judges in their own Caſe. For they being the leſſe, ought to be governed by the greater part of the Houſe: and
+<pb n="5" facs="tcp:151590:3"/>
+               <!-- PDF PAGE 15 -->ſo <hi>Major pars ſignodi eſt tota;</hi> the Major part of the convention is the whole, and the leſſe is to ſubſcribe to the greater. Elſe farewell all order and due determination of Controverſies in publick or private Aſſemblies: If the worſted party may be per<g ref="char:EOLhyphen"/>mitted to diſpute, every man is ſo much a kin to his own Judg<g ref="char:EOLhyphen"/>ments, as part of himſelf, that he will never acknowledg him<g ref="char:EOLhyphen"/>ſelf to be conſtious of error, alwayes attended with the ſad conſequents of guilt and ſhame. Therefore when the leſſe con<g ref="char:EOLhyphen"/>ſiderable part of the Houſe could not protect themſelves by the reaſon of Law, they over-powred the greater by the Law of the Sword, in ſome caſes a good hand of Juſtice, but alwayes an ill head of Law, of which the Souldiery is little verſed in the Theory, and therefore too much in the Practick, being unfit Arbitrators of it, although the unhappy differences of this un<g ref="char:EOLhyphen"/>ſober Age have too often made them ſo. Now the Minor part of the Houſe having created themſelves ſole Maſters of the Houſe of Commons, did farther act the Polititians, and did by <hi>Ragione di ſtato,</hi> contrive a way to leſſen the power of the Crown the Fountain of Honour, by taking away the great ſtream of it, the Houſe of Barons, who had a high obli<g ref="char:EOLhyphen"/>gation to ſerve him, who had conferred their Honour upon them: The ſurviving Fraction of the lower Houſe, did by an inſolent Ordinance pull down the upper, which was much more Antient and Honourable than their own. This Action exceed<g ref="char:EOLhyphen"/>ing all rules of reaſon and ſobriety, did not give bounds to their Arrogance and Ambition, ſetting their Feet on the Necks of the Lords, that they might more eaſily ſtrike at the head of the King, when contrary to all Law, Religion, their Proteſtation, League and Covenant, and Oath of Allegiance by a pretended Court of Juſtice, and their omnipotent power, they Arraigned, Sentenced, and moſt inhumanely Murdered; And afterward Baniſhed the juſt Heir of the Crown, and his Royal Relations, making them firſt hear the Subject of their own Malice, and a<g ref="char:EOLhyphen"/>broad the Object of others Charity. What Engliſh Heart that hath either ſenſe of Humanity, Loyalty, or Religion, but muſt highly reſent theſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unheard of Barbariſmes, with no leſſe a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<g ref="char:EOLhyphen"/>niſhment than indignation? All which they have committed, that they might h<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>hthen themſelves above all Law, no body on Earth (as they conceived) being in a capacity to call them to an account for their Violations of Humane and Divine Laws. But they were highly miſtaken; This illegal deportment towards
+<pb n="6" facs="tcp:151590:4"/>
+               <!-- PDF PAGE 16 -->their Fellow Members, the Houſe of Lords, and our late moſt Gracious Sovereign, chaulked out the way to their Servants (that were Commiſſioned to fight for them) to turn their Ma<g ref="char:EOLhyphen"/>ſters, they conſtituting the Souldiery firſt Moderators between them and their Fellow Members, devolved a power on the Ar<g ref="char:EOLhyphen"/>my, after the Houſe had moſt Barbarouſly taken away their Head that moſt pious Saint and Martyr the King, and when they had ſate ſo long, and expended ſo much Blood and Trea<g ref="char:EOLhyphen"/>ſon, and done ſo little good for the Nation: <hi>Cromwell</hi> by the power of the Sword did deem it a peice of Honour to himſelf, and Juſtice to the Kingdom to take them out of the Houſe, they having ſo unnaturally deſtroyed their own Heads, were no better than dead Members in Law, as the Maſters of that faculty do affirm: When they had by the curſed inſinuations of the Jeſuits (ever pernicious Counſellours to this Nation, given that fatal ſtroke, which at once determined our Royal Soveraign and them<g ref="char:EOLhyphen"/>ſelvs, and the Glory &amp; Happineſs of theſe then three flouriſhing Kingdomes. I wiſh they did travel abroad, that they might be better educated, and then their Ears would ring, and their hearts I hope relent to hear the ſad Character, the World gi<g ref="char:EOLhyphen"/>veth of them in their paralel with the <hi>Jews,</hi> by reaſon of that horrid murther. I wiſh them from my very Soul a hearty con<g ref="char:EOLhyphen"/>trition of Spirit in an unfeigned Repentance, that the moſt precious blood of that immaculate Lamb, may waſh them clean from the guilty of that innocent blood, which elſe will cry loud againſt them at that greater Seſſion above, when they ſhall be di<g ref="char:EOLhyphen"/>veſted of all power of the Souldiery to aſſiſt them. Now I beg of them to entertain themſelves in their own Ordinances, in which they may be pleaſed to take a ſhort view of their ſcan<g ref="char:EOLhyphen"/>dalous Tranſactions, in ejecting their fellow Members, the Houſe of Lords, the Reverend Biſhops, moſt Sacriligiouſly pocketing up the revenews of the Church and Crowns, ſhed<g ref="char:EOLhyphen"/>ding that innocent blood, invading all honeſt mens Liberties and Proprieties. Who out of conſcience would not ſign the un<g ref="char:EOLhyphen"/>worthy reſults of their arbitrary Counſels. I appeal to their own Souls, they being but the leſſer faction of the Houſe, guilty of ſo many breaches of Truſt, for which they were twice ejected by that power, which firſt gave them their mon<g ref="char:EOLhyphen"/>ſtrous being; The People often reſuming their Truſt in Electing new Delegates to Act for them in many ſucceſſive Parliaments:
+<pb n="7" facs="tcp:151590:4"/>
+               <!-- PDF PAGE 16 -->Whether they have not great confidence in Entitleing them<g ref="char:EOLhyphen"/>ſelves to a Monopoly (all being put down but themſelves) of being perpetual Parliament men. That they might offer a further Rape to the will of the Nation, in debauching them from their firſt chaſt love of Monarchy, the beſt of Policies for Order, Unity and Commerce, to gratifie their ſpurious Luſt, in the en<g ref="char:EOLhyphen"/>joyment of ſome new light Curtiſan, Ociana, a meer Bawd and Romance of Government, intending therein to Null all Antient Fundamental both Civil and Common Laws, which elſe will ſtand as ſo many Records of their baſer crimes, to bring in them for the future to condign puniſhments. Give me leave to tell them, that the beſt way in order to their Temporal and Eter<g ref="char:EOLhyphen"/>nal happineſs, is to make peace above and below, with God and the Nation, in ſpeaking a juſt reſtitution (according to that good old School Divinity, <hi>Non remittitur pecatum, niſi reſtituatur abla<g ref="char:EOLhyphen"/>tum</hi>) for giving up thoſe eſtates (which they have moſt injuri<g ref="char:EOLhyphen"/>ouſly ſeized) to the true owners the Church, and Crown, and call home again the juſt Heir, a Perſon of ſo much Honour, Piety, and Clemency, that he writeth the unworthy injuries of his E<g ref="char:EOLhyphen"/>nemies in Duſt, and the loyal ſervices of his Friends in Marble. Who is of ſuch a happy memory, that he forgeteth nothing but diſſervices? But ſuppoſe he were not a Perſon of that Candour &amp; Moderation, as they would have him to remit thoſe high viola<g ref="char:EOLhyphen"/>tions which have been acted by them and their Adherents, againſt him and the ſacred Perſon of his Royal Father and his Loyal Subjects; They need not poſſeſſe themſelves with vain fear, when he proffereth to reſign all power of diſ-obliging them, into the <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of a free Parliament, and out of his gracious inclinati<g ref="char:EOLhyphen"/>ons to a firm peace, will condeſcend to <hi>Ratifie,</hi> what ſhall be En<g ref="char:EOLhyphen"/>acted by them. He ſaith a ſo in his late Declaration that they ſhall keep his and the Church Lands, till they have received their Money, both Principal, and Intereſt, which they have paid for them: and then they muſt confeſſe (if they be ingenious) it is exquitable on all accounts to reſtore the Lands and Reve<g ref="char:EOLhyphen"/>news to their true Maſters, the King and the Church. Pray be pleaſed to conſider that the Royal intereſt (without which we have been a prey to Foreign Nations,) will again reconcile us to them, and give us ſuch a repute as to be able to hold a fair correſpondence with Foreign Princes, that the Merchants may receive a due incouragement, who are the Honour and Support
+<pb n="8" facs="tcp:151590:5"/>
+               <!-- PDF PAGE 17 -->of the Trade of this Nation; But ſome will reply, if the King be enthrowned, the Court will ſpeak charge to the Kingdom, but it is eaſily anſwered, that it is much leſſe expenceful, then the Army, which coſteth two Millions to maintain againſt a juſt Court, which never had ſcarce half a Million beſide the Crown Lands, to ſupport it in its greateſt Splendour; and when the King ſhall be Eſtated in his Fathers Royal Throne, there will be no need of an Army, he will deſire no other Guard but the inno<g ref="char:EOLhyphen"/>cence of his perſon and the Love of his Subjects. Pray be plea<g ref="char:EOLhyphen"/>ſed to communicate my deſires to the Houſe, not to ſacrifice theſe Nations (once the envy of the world) to the mercileſs fury of a Foreign Invaſion, to preſerve their ill gotten Eſtates by Sacriledge and Oppreſſion, but to condiſcend to the Election of a free Parliament made up of the three Eſtates of the King<g ref="char:EOLhyphen"/>dom a moſt excellent Model of Government and a rare Harmo<g ref="char:EOLhyphen"/>ny, Compoſed of the different Intereſts of the Nation, conſen<g ref="char:EOLhyphen"/>tring together in this happy Fabrick the only expedient left to Reedifie our Ruined Church, in the reſtaurations of the reverend Fathers of it, commended to us from the holy Apoſtles through ſo many ages, as a defence againſt Hereſie and Schyſme and to repair the breaches of our diſtracted State, in the bleſſed inangu<g ref="char:EOLhyphen"/>ration of the Kings moſt Royal Perſon, as an inſtrument of Gods Glory and our happineſſe, which that it may ſuddainly ſucceed, is the earneſt prayer of,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your moſt faithfull Servant, <hi>L<g ref="char:punc">▪</g> L.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
